@@ -1,0 +1,64 @@
+img { 
+    
+    display: block;
+    margin: 100px auto auto auto;
+    width: 200px;
+    
+}
+
+ul.header{
+    
+    list-style-type: none; /*removes bullet points */
+    padding: 0;
+    margin: 0;
+    max:100vw;
+
+  
+    
+}
+
+html, body{
+    margin: 0;
+}
+
+
+
+
+ul.footer{
+    position: absolute;
+    list-style-type: none; /*removes bullet points */
+    padding: 0;
+    margin: 0;
+    bottom: 0px;
+    background-color: rgb(212, 205, 205);
+    width: 100vw;
+   
+    
+  
+    
+}
+
+
+li {
+    display: inline-block;
+    font-family: arial;
+    font-size: 14px;
+    padding: 10px;
+}
+
+
+
+input{
+    display:block;
+    border-color: white;
+    margin: 10px auto auto auto;
+    width: 25%;
+}
+
+.buttons{
+   
+    text-align:center;
+    display: block;
+    margin: 20px auto;
+    width: 500px;
+}
